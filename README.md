@@ -8,7 +8,7 @@ yarn을 활용하여 install을 진행해주세요.
 
 # storybook 에 추가하기 
 
-storybook에 추가하고 싶은 ft이 생기면 
+storybook에 추가하고 싶은 ftl이 생기면 
 
 ```
 npx keycloakify add-story # Select login.ftl (for example)
